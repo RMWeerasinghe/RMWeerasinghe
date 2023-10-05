@@ -26,7 +26,7 @@ I'm a computer science and engineering undergraduate at the University of Moratu
 - 🌱 I’m currently learning deep neural networks and data mining techniques.
 - 💬 Ask me about anything. I am happy to provide answers if I am able to.
 - 📫 How to reach me:
-  - 📧email:  ravindi.20@cse.mrt.ac.lk
+  - 📧 ravindi.20@cse.mrt.ac.lk
   - <a href = "https://www.linkedin.com/in/ravindi-weerasinghe-07902923b/">
       <img align="left" alt="LinkedIn icon" width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC0jHtU-E9YqAeC-9QrRSHWgCEeuezJYS0BQ&usqp=CAU" />
       Ravindi Weerasinghe
