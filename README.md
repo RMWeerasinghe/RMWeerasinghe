@@ -31,10 +31,10 @@ I'm a computer science and engineering undergraduate at the University of Moratu
       <img align="left" alt="LinkedIn icon" width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC0jHtU-E9YqAeC-9QrRSHWgCEeuezJYS0BQ&usqp=CAU" />
       Ravindi Weerasinghe
     </a>
-<!--
+
 - 👩 See my portfolio:
     -  🌐 https://rmweerasinghe.github.io/
--->
+
 
   
 ## 💻 Languages and Tools
